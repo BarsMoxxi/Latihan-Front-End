@@ -1,0 +1,30 @@
+{
+  "todo": [
+    {
+      "activity": "lorem",
+      "isFinished": false,
+      "id": 3
+    },
+    {
+      "activity": "lorem",
+      "isFinished": true,
+      "id": 4
+    },
+    {
+      "activity": "lorem",
+      "isFinished": false,
+      "id": 5
+    },
+    {
+      "activity": "lorem",
+      "isFinished": false,
+      "id": 6
+    },
+    {
+      "activity": "asd",
+      "isFinished": false,
+      "id": 7
+    }
+  ],
+  "users": []
+}
